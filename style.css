@@ -1,0 +1,28 @@
+.container-platzhalter {
+    padding-bottom: 300px;
+}
+
+.center {
+    text-align: center
+}
+
+.page-header {
+    font-family: Roboto;
+    font-size: 45px;
+}
+
+.lead {
+    font-size: 22px;
+}
+
+.h-status {
+    font-size: 40px;
+}
+
+.h-info {
+    font-size: 30px;
+}
+.container-p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
